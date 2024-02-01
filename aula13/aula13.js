@@ -1,5 +1,5 @@
 //                     01234567
-let umaString = 'Um texto';
+let umaString = 'Um texto ';
 
 
 console.log(umaString.concat(' em um lindo dia. '));
